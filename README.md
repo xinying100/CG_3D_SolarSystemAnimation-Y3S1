@@ -1,6 +1,6 @@
 # CG_3D_SolarSystemAnimation
 
-<br>
+
 ## Screenshot of Running Results
 <b>1) Interaction's Instruction Window </b>
 ![image](https://github.com/xinying100/CG_3D_SolarSystemAnimation-Y3S1/assets/123957735/d64016b6-95dc-4aa7-8b68-3098449f0b01)
