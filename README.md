@@ -1,5 +1,5 @@
 # CG_3D_SolarSystemAnimation
-
+Video: https://www.youtube.com/watch?v=qy0FkgHbT60
 
 ## Screenshot of Running Results
 <b>1) Interaction's Instruction Window </b>
